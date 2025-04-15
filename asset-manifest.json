@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/broom/static/css/main.02f45b1f.css",
+    "main.js": "/broom/static/js/main.3213a61e.js",
+    "static/js/453.ae0d4a08.chunk.js": "/broom/static/js/453.ae0d4a08.chunk.js",
+    "static/media/iphone12.png": "/broom/static/media/iphone12.b348b1afbc3ed04f4072.png",
+    "index.html": "/broom/index.html",
+    "main.02f45b1f.css.map": "/broom/static/css/main.02f45b1f.css.map",
+    "main.3213a61e.js.map": "/broom/static/js/main.3213a61e.js.map",
+    "453.ae0d4a08.chunk.js.map": "/broom/static/js/453.ae0d4a08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f45b1f.css",
+    "static/js/main.3213a61e.js"
+  ]
+}
